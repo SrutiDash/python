@@ -9,3 +9,4 @@ sruti''')
 print('hi \nthis \nis \nsruti')
 print('it\'s a nice day')
 # using \ if there's an ' then it can print as it is
+#30:15
